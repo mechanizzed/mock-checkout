@@ -1,9 +1,9 @@
 {
   "cart": {
     "id": 1,
-    "subtotal": 1000.0,
+    "subtotal": 3200.0,
     "freight": 300.0,
-    "total": 1300.0,
+    "total": 3500.0,
     "products": [
       {
         "id": 123,
@@ -15,7 +15,7 @@
         "id": 321,
         "name": "Product #2",
         "image": "https://tailwindcss.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-02.jpg",
-        "price": 2000.0
+        "price": 2200.0
       }
     ]
   }
