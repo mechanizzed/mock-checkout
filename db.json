@@ -17,6 +17,13 @@
         "image": "https://tailwindcss.com/plus-assets/img/ecommerce-images/shopping-cart-page-04-product-02.jpg",
         "price": 2200.0
       }
+    ],
+    "shippingList": [
+      {
+        "title": "Pedido a ser retirado em MUNDALUA Castelo",
+        "address": "Avenida Miguel Perrela, 455 - Castelo",
+        "value": "Grátis"
+      }
     ]
   }
 }
